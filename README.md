@@ -1,3 +1,12 @@
+![Screenshot (571)](https://user-images.githubusercontent.com/79220494/216393642-19341fb8-51d7-44cb-9c00-c4ee44c0adf3.png)
+![Screenshot (572)](https://user-images.githubusercontent.com/79220494/216393883-fb8f5da8-ff41-4cd3-ae35-d50a60be70c3.png)
+![Screenshot (573)](https://user-images.githubusercontent.com/79220494/216394130-ae3dc1c9-7b3f-43a2-9129-e2f3d5360756.png)
+
+
+Developed ClipStream, a YouTube Clone web application with advanced search functionality. The app utilizes the YouTube API from Rapid API to retrieve and display videos in real-time. Implemented video search, video playback, video recommendations, and a user-friendly interface using Material UI
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
